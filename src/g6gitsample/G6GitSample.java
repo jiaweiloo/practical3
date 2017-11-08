@@ -17,6 +17,7 @@ public class G6GitSample {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("PUSH 1");
+        System.out.println("PUSH 2");
     }
     
 }
