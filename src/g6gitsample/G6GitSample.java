@@ -18,6 +18,7 @@ public class G6GitSample {
         // TODO code application logic here
         System.out.println("PUSH 1");
         System.out.println("PUSH 2");
+        System.out.println("push for #152665889");
     }
     
 }
