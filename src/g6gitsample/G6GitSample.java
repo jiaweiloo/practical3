@@ -19,6 +19,7 @@ public class G6GitSample {
         System.out.println("PUSH 1");
         System.out.println("PUSH 2");
         System.out.println("push for #152665889");
+        System.out.println("push for #152665942");
     }
     
 }
